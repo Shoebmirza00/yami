@@ -33,7 +33,7 @@ function MovieList() {
             <h3>{movie.title}</h3>
             <p>Release Date: {movie.release_date}</p>
             <p>Rating: {movie.vote_average}/10</p>
-            <p>Recomadation: {}</p>
+            <p>Recomadation: </p>
           </div>
         ))}
       </div>
